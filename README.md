@@ -57,5 +57,5 @@ The system allows users to control a vehicle using hand gestures via a webcam:
 This project is licensed under the MIT License.
 
 ---
-**Author:** Your Name  
-**Contact:** your.email@example.com
+**Author:** tanhtt  
+**Contact:** flywtan@gmail.com
