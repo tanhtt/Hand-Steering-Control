@@ -43,7 +43,7 @@ The system allows users to control a vehicle using hand gestures via a webcam:
 ## Usage
 1. Run the main script:
    ```sh
-   python main.py
+   python hand_detect.py
    ```
 2. Ensure the webcam is connected and positioned correctly.
 3. Use hand gestures to control the vehicle.
